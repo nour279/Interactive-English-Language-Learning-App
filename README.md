@@ -1,4 +1,4 @@
-assets/images/English_Learning_App.jpg
+English_Learning_App.jpg
 ### **وصف المشروع: تطبيق تعلم اللغة الإنجليزية التفاعلي (Interactive English Language Learning App)**
 
 **عنوان المشروع المقترح:** نظام اختبار وتتبع إتقان المفردات الإنجليزية (English Vocabulary Mastery Tracking & Quiz System)
